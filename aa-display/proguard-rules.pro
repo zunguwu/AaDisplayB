@@ -1,1 +1,0 @@
--keep class io.github.nitsuya.aa.display.** { *; }
